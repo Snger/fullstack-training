@@ -38,6 +38,13 @@
 1. 点击页面上的链接，注意浏览器 URL 的变化
 1. 仔细查看[`js/main.js`](./backbone-demo/js/main.js)的源码，看懂 Router 组件的使用方式
 
+### 背景知识
+1. **apply** [How does the JavaScript .apply method work?](http://stackoverflow.com/questions/34802982/how-does-the-javascript-apply-method-work)
+2. **Closures** [JavaScript Closures](http://www.w3schools.com/js/js_function_closures.asp)
+3. **Hoisting** [【js秘密花园】变量声明提升](https://bonsaiden.github.io/JavaScript-Garden/zh/#function.scopes)
+4. **Backbone.listenTo** [【github】backbone listenTo commit log](https://github.com/jashkenas/backbone/commit/1191640d84b24fde145eebd10dbd49e2335db506)
+
+
 ## Angular
 
 ### 实验目的
