@@ -43,6 +43,7 @@
 2. **Closures** [JavaScript Closures](http://www.w3schools.com/js/js_function_closures.asp)
 3. **Hoisting** [【js秘密花园】变量声明提升](https://bonsaiden.github.io/JavaScript-Garden/zh/#function.scopes)
 4. **Backbone.listenTo** [【github】backbone listenTo commit log](https://github.com/jashkenas/backbone/commit/1191640d84b24fde145eebd10dbd49e2335db506)
+5. **extend** 《JavaScript 框架设计》第5章 类工厂
 
 
 ## Angular
