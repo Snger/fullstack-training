@@ -75,6 +75,16 @@
 1. [`index2.html`](./vue-demo/index2.html)是一个稍微复杂的例子，模板如何绑定数据对象的一个字段。
 2. [`index3.html`](./vue-demo/index3.html)是事件绑定模板的例子。
 
+### 背景知识
+1. [`Node.nodeType`](https://developer.mozilla.org/en-US/docs/Web/API/Node/nodeType)
+2. [`DocumentFragment`](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment.html) This interface is also of great use with Web components: `<template>` elements contain a DocumentFragment in their HTMLTemplateElement.content property.
+3. [`Array.prototype.filter()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+4. [`Array.prototype.map()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+5. [w3c/webcomponents/proposals/Slots-Proposal](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/Slots-Proposal.md)
+6. [`document.createComment`](https://developer.mozilla.org/en-US/docs/Web/API/document/createComment)
+7. [`document.createTextNode`](https://developer.mozilla.org/en-US/docs/Web/API/document/createTextNode)
+8. [`Object.defineProperty()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/defineProperty)
+
 ## JSX
 
 ### 实验目的
