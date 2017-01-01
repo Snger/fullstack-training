@@ -58,6 +58,10 @@
 1. 在输入框填入内容，注意页面变化
 1. 查看[`index.html`](./angular-demo/index.html)的源码，理解 Angular 对 HTML 标签的增强
 
+### 源码阅读感受
+* 加载流程流畅；
+* 细节实现很 geek （例如：injector 的实现，多重闭包、递归、内部方法传参不直观，多次数据裁剪；感觉开发者的脑容量很大 o(*≧▽≦)ツ┏━┓）
+
 ## Vue
 
 ### 实验目的
@@ -84,6 +88,11 @@
 6. [`document.createComment`](https://developer.mozilla.org/en-US/docs/Web/API/document/createComment)
 7. [`document.createTextNode`](https://developer.mozilla.org/en-US/docs/Web/API/document/createTextNode)
 8. [`Object.defineProperty()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/defineProperty)
+
+### 源码阅读感受
+* 代码简洁、复杂度控制得很好（特别是和 angular 源码对比）；
+* API 扁平的基础上又进行了分层（例如：dataAPI、domAPI、eventsAPI、lifecycleAPI）；
+* 明确的内部方法（._method）、实例方法（.$method）和全局方法（.method）的划分；
 
 ## JSX
 
