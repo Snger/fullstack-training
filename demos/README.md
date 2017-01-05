@@ -88,6 +88,8 @@
 6. [`document.createComment`](https://developer.mozilla.org/en-US/docs/Web/API/document/createComment)
 7. [`document.createTextNode`](https://developer.mozilla.org/en-US/docs/Web/API/document/createTextNode)
 8. [`Object.defineProperty()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/defineProperty)
+9. [`getter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get) Sometimes it is desirable to allow access to a property that returns a dynamically computed value, or you may want to reflect the status of an internal variable without requiring the use of explicit method calls. In JavaScript, this can be accomplished with the use of a getter. 
+10. [Why is setTimeout(fn, 0) sometimes useful?](http://stackoverflow.com/questions/779379/why-is-settimeoutfn-0-sometimes-useful)
 
 ### 源码阅读感受
 * 代码简洁、复杂度控制得很好（特别是和 angular 源码对比）；
